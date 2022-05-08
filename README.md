@@ -10,7 +10,7 @@ Compile the RTD266xArduino sketch with the Arduino IDE and download it onto your
 
 #### Connecting ####
 
-The communication between display and Arduino is done via I�C which is accessible on the VGA and HDMI ports of RTD266x. Connect SCL, SDA and GND with the corresponding Arduino pins.
+The communication between display and Arduino is done via I2C which is accessible on the VGA and HDMI ports of RTD266x. Connect SCL, SDA and GND with the corresponding Arduino pins.
 
 For an Arduino Uno and an VGA connector, this would be:
 
