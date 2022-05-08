@@ -17,8 +17,8 @@ For an Arduino Uno and an VGA connector, this would be:
 | Pin name | Arduino Uno | VGA pinout |
 | --- | --- |------------|
 | SCL | A5 | 15         |
-| SDA | A4 | 8, 7, 6    |
-| GND | GND | 17         |
+| SDA | A4 | 17 |
+| GND | GND |  8, 7, 6  |
 
 There are no additional pull-ups required, they are already on the RTD266x PCB.
 
